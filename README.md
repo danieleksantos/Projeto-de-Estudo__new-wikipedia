@@ -1,19 +1,19 @@
-# Módulo 3 - Trilha HTML
-
 **Título:** Recriando Wikipedia, com um layout melhor :)
+# New Wikipedia 🌐
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+**New Wikipedia** é um projeto de estudo que replica visualmente a interface básica da Wikipedia, desenvolvido com o objetivo de consolidar conhecimentos em **HTML** e **CSS**.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+---
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## 🚀 Tecnologias Utilizadas
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+- **HTML5**: Para a estrutura semântica da página.  
+- **CSS3**: Para estilização e design responsivo.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+---
 
+## 🎯 Objetivo
 
+Criar uma réplica simplificada da interface da Wikipedia, com foco em um design limpo, responsivo e agradável para aprendizado e prática de front-end.
+
+---
